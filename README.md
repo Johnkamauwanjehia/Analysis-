@@ -1,2 +1,2 @@
 # Analysis-
-Sales analysis uisng power BI
+Creating  Sales Analytics Dashboard in POWER BI
